@@ -1,2 +1,2 @@
 # brusalves.github.io
-Presentation site using Git Pages
+Presentation site using GitHub Pages
